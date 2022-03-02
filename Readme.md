@@ -8,7 +8,7 @@
 
 # Execute 
 
-1º Set up ADVENT_CODE env variable with the day challenge you want get. 
+1º Set up ADVENT_DAY env variable with the day challenge you want get. 
 Then you only need run the main class.
 
 
